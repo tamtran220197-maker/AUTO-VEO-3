@@ -1,0 +1,8 @@
+{
+  "name": "Veo Batch Video Producer",
+  "description": "A high-performance batch video generation system using Google Gemini Veo models with advanced queue management, rate limiting, and parallel processing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
